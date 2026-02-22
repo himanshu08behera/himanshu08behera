@@ -8,9 +8,9 @@
         <p>🌱 Always learning and growing</p>
         <p>💻 Passionate about code</p>
       </td>
-      <td width="50%" align="center">
+      <!-- <td width="50%" align="center">
         <img src="https://customer-assets.emergentagent.com/job_dynamic-github-bio/artifacts/lu6mrkfv_image.png" width="400" alt="Developer"/>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
@@ -26,7 +26,9 @@
 <p align="center">
   <img src="https://customer-assets.emergentagent.com/job_dynamic-github-bio/artifacts/adjaxbg1_github%20images.gif" width="600" alt="Full Stack Developer"/>
 </p>
-
+ <td width="50%" align="center">
+        <img src="https://customer-assets.emergentagent.com/job_dynamic-github-bio/artifacts/lu6mrkfv_image.png" width="400" alt="Developer"/>
+      </td>
 ---
 
 ## 🚀 About Me
