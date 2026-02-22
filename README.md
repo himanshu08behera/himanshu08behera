@@ -18,6 +18,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm HIMANSHU SEKHAR BEHERA </h1>
 <p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&pause=1000&color=4FC3F7&vCenter=true&width=500&lines=Full+Stack+Developer;Django+Developer;REST+API+Builder"
     alt="Typing animation"
