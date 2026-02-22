@@ -103,9 +103,9 @@
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu08behera&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
+
+
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=himanshu08behera&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
