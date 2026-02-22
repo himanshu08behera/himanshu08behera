@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://customer-assets.emergentagent.com/job_record-guide/artifacts/xg50lysc_2nd%20github%20image.gif" width="500" alt="Developer at Work"/>
 </p>
 
