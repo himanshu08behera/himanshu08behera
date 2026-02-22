@@ -62,8 +62,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,django,flask,mongodb,mysql,git,github,docker,linux,vscode," alt="skills" />
+<img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="Oracle SQL logo" />
 </p>
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat&logo=oracle&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
