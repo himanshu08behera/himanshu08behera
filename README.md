@@ -123,8 +123,8 @@
 
 ```javascript
 const currentFocus = {
-    learning: ["Django", "PostgreSQL", "Docker", "Kubernetes"],
+    learning: ["Django", "PostgreSQL", "powerBi"],
     building: ["Food Delivery App", "Portfolio Website"],
-    exploring: ["Machine Learning", "Cloud Computing"],
+    exploring: ["Machine Learning", "AI Tools"],
     goal: "Contribute to Open Source & Build Impactful Projects"
 };
