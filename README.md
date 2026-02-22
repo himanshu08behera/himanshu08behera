@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif"/>
+  <img src="https://customer-assets.emergentagent.com/job_dynamic-github-bio/artifacts/adjaxbg1_github%20images.gif" width="600" alt="Full Stack Developer"/>
 </p>
 
 ---
