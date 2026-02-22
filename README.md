@@ -1,19 +1,4 @@
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h1>👋 Hi, I'm HIMANSHU SEKHAR BEHERA</h1>
-        <h3>Full Stack Developer</h3>
-        <p>🔭 Building amazing web applications</p>
-        <p>🌱 Always learning and growing</p>
-        <p>💻 Passionate about code</p>
-      </td>
-      <!-- <td width="50%" align="center">
-        <img src="https://customer-assets.emergentagent.com/job_dynamic-github-bio/artifacts/lu6mrkfv_image.png" width="400" alt="Developer"/>
-      </td> -->
-    </tr>
-  </table>
-</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+HIMANSHU SEKHAR BEHERA;Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
@@ -26,9 +11,9 @@
 <p align="center">
   <img src="https://customer-assets.emergentagent.com/job_dynamic-github-bio/artifacts/adjaxbg1_github%20images.gif" width="600" alt="Full Stack Developer"/>
 </p>
- <td width="50%" align="center">
-        <img src="https://customer-assets.emergentagent.com/job_dynamic-github-bio/artifacts/lu6mrkfv_image.png" width="400" alt="Developer"/>
-      </td>
+<h1 align="center">Hi 👋, I'm HIMANSHU SEKHAR BEHERA </h1>
+<h3 align="center"> _______Full Stack Developer_______ </h3>
+
 ---
 
 ## 🚀 About Me
