@@ -13,6 +13,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm HIMANSHU SEKHAR BEHERA </h1>
 <h3 align="center"> _______Full Stack Developer_______ </h3>
+<p align="center">
+  <img src="https://customer-assets.emergentagent.com/job_record-guide/artifacts/xg50lysc_2nd%20github%20image.gif" width="500" alt="Developer at Work"/>
+</p>
 
 ---
 
