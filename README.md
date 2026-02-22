@@ -61,8 +61,8 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,django,flask,mongodb,mysql,git,github,docker,linux,vscode," alt="skills" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle SQL" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,django,flask,mongodb,mysql,git,github,docker,linux,vscode," alt="skills" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle SQL" />
+
 </p>
 
 ### Frontend
