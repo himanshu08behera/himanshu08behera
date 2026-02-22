@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,react,django,flask,mongodb,mysql,git,github,docker,linux,vscode," alt="skills" />
-<img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="Oracle SQL logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle SQL" />
 </p>
 
 ### Frontend
